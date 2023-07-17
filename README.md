@@ -1,16 +1,3 @@
-## Hey there! 👋
-
-I'm Maria Luiza, but you can call me Malu if you want to. I'm currently working as a web development internt at [deco.cx](https://www.deco.cx/) 👩‍💻
-
-![Maria Luiza Aires's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuizaaires&show_icons=true&theme=dracula)
-
-## Reach me
-
-<div style="display:inline_block;">
-  <a alt="Gmail" src="mailto:marialuizafaires@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a alt="LinkedIn" src="https://www.linkedin.com/in/marialuizafaires/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-
 ## Tech stack 
 
 <div style="display:inline_block;">
